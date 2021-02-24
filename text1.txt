@@ -1,2 +1,7 @@
 This is a text1.txt file.
 Added another statement into the file.
+
+
+
+
+Made some changes in line 7th.
