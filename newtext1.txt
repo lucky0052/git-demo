@@ -1,2 +1,6 @@
 This is the file which will be seen only in 
 newtext1.txt file and solely in the newbranch.
+
+
+I'm making some changes in newtext1.txt file by
+rebasebranc.
