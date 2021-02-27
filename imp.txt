@@ -1,0 +1,23 @@
+This is the file which will be seen only in 
+newtext1.txt file and solely in the newbranch.
+
+
+I'm making some changes in newtext1.txt file by
+rebasebranch.khkh
+
+
+
+To delete the branch from the remote repository 
+use the command git push --delete origin branchname
+
+
+To delete the branch from the local repository 
+use the command git branch -d branchname
+
+
+To change the branch name we have to first change the name 
+of the local branch then use the command to change the
+the branch name git branch -m newbranch_name
+
+Then push the new name of the branch to git repository
+git push origin :oldbranch_name newbranch_name
