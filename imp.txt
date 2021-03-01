@@ -21,3 +21,7 @@ the branch name git branch -m newbranch_name
 
 Then push the new name of the branch to git repository
 git push origin :oldbranch_name newbranch_name
+
+
+
+Made few changes to check the diff but before staged.
