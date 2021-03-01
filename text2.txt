@@ -1,1 +1,2 @@
 That updated will occur a merge conflict
+modified to fetch the details.
